@@ -9,7 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "face-api.js": "^0.22.2",
+    "@tensorflow-models/blazeface": "^0.1.0",
+    "@tensorflow-models/coco-ssd": "2.2.2",
+    "@tensorflow/tfjs": "3.21.0",
+    "@tensorflow/tfjs-converter": "3.21.0",
+    "face-api.js": "0.22.2",
     "next": "15.4.6",
     "react": "19.1.0",
     "react-dom": "19.1.0",
